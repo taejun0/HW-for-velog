@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { dummy_data } from "../data/dummy_data";
 
 function HomePage() {
   return (

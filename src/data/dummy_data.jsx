@@ -12,7 +12,7 @@ export let dummy_data = [
     title: "2차세션",
     content: "오늘은 리엑트를 배웠어요^^ 아~ 재밌다",
     thumbnail:
-      "https://upload3.inven.co.kr/upload/2023/07/15/bbs/i13881630226.jpg",
+      "https://flexible.img.hani.co.kr/flexible/normal/960/960/imgdb/resize/2019/0121/00501111_20190121.JPG",
     createdAt: "2024-07-13 01:02:03",
   },
   {
@@ -21,7 +21,7 @@ export let dummy_data = [
     content:
       "오늘은 리엑트를 배웠어요^^ 아~ 재밌다, 라우터도 스타일드 컴포넌트도 배웠어요.",
     thumbnail:
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTA0MTFfMTU4/MDAxNTU0OTE2MjA0OTg0.dj-DdRFhpIM-cj9qx5jQHO5dTMzd8QkM_BiG5EgXjoEg.u1_iIbWxlGOqQpX4Q4JVnpXimPOqEan2391FZZxOPUMg.JPEG.jubbigi/%EA%B0%95%EC%95%84%EC%A7%80%EC%A7%A48.JPG",
+      "https://dimg.donga.com/wps/NEWS/IMAGE/2022/01/28/111500268.2.jpg",
     createdAt: "2024-07-14 01:02:03",
   },
 ];
